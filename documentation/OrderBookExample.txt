@@ -1,0 +1,12 @@
+Buy order:  	Order quantity: 50	Offered Price: 10	Time stamp: 2017-10-03 19:20:27
+Buy order:  	Order quantity: 55	Offered Price: 9.8	Time stamp: 2017-10-03 19:20:28
+Buy order:  	Order quantity: 55	Offered Price: 9.8	Time stamp: 2017-10-03 19:20:31
+Buy order:  	Order quantity: 100	Offered Price: 9.5	Time stamp: 2017-10-03 19:20:29
+Buy order:  	Order quantity: 40	Offered Price: 9.0	Time stamp: 2017-10-03 19:20:30
+
+Sell order: 	Order quantity: 40	Offered Price: 9.0	Time stamp: 2017-10-03 19:20:33
+Sell order: 	Order quantity: 100	Offered Price: 9.5	Time stamp: 2017-10-03 19:20:32
+Sell order: 	Order quantity: 110	Offered Price: 9.5	Time stamp: 2017-10-03 19:20:34
+Sell order: 	Order quantity: 120	Offered Price: 9.5	Time stamp: 2017-10-03 19:20:36
+Sell order: 	Order quantity: 45	Offered Price: 9.9	Time stamp: 2017-10-03 19:20:35
+Sell order: 	Order quantity: 50	Offered Price: 10	Time stamp: 2017-10-03 19:20:31
